@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\bin\Debug\geometrie comp sem.2.exe.config
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\bin\Debug\geometrie comp sem.2.exe
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\bin\Debug\geometrie comp sem.2.pdb
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie comp sem.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie_comp_sem._2.Form1.resources
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie_comp_sem._2.Properties.Resources.resources
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie comp sem.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie comp sem.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie comp sem.2.exe
+C:\Users\User\source\repos\geometrie comp sem.2\geometrie comp sem.2\obj\Debug\geometrie comp sem.2.pdb

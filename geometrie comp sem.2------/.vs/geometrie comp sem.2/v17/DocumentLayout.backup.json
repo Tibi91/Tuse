@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\geometrie comp sem.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB44BA-9807-4E6A-B3C7-27961547DE6B}|geometrie comp sem.2\\geometrie comp sem.2.csproj|c:\\users\\user\\source\\repos\\geometrie comp sem.2\\geometrie comp sem.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFB44BA-9807-4E6A-B3C7-27961547DE6B}|geometrie comp sem.2\\geometrie comp sem.2.csproj|solutionrelative:geometrie comp sem.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFB44BA-9807-4E6A-B3C7-27961547DE6B}|geometrie comp sem.2\\geometrie comp sem.2.csproj|C:\\Users\\User\\source\\repos\\geometrie comp sem.2\\geometrie comp sem.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDFB44BA-9807-4E6A-B3C7-27961547DE6B}|geometrie comp sem.2\\geometrie comp sem.2.csproj|solutionrelative:geometrie comp sem.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\geometrie comp sem.2\\geometrie comp sem.2\\Form1.cs",
+              "RelativeDocumentMoniker": "geometrie comp sem.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\geometrie comp sem.2\\geometrie comp sem.2\\Form1.cs",
+              "RelativeToolTip": "geometrie comp sem.2\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:20:04.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\geometrie comp sem.2\\geometrie comp sem.2\\Form1.cs",
+              "RelativeDocumentMoniker": "geometrie comp sem.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\geometrie comp sem.2\\geometrie comp sem.2\\Form1.cs [Design]",
+              "RelativeToolTip": "geometrie comp sem.2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:19:59.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

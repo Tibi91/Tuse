@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\bin\Debug\sem 6 pb 1.exe.config
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\bin\Debug\sem 6 pb 1.exe
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\bin\Debug\sem 6 pb 1.pdb
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem 6 pb 1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem_6_pb_1.Form1.resources
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem_6_pb_1.Properties.Resources.resources
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem 6 pb 1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem 6 pb 1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem 6 pb 1.exe
+C:\Users\User\source\repos\sem 6 pb 1\sem 6 pb 1\obj\Debug\sem 6 pb 1.pdb
