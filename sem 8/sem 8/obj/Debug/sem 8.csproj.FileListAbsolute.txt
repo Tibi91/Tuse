@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\sem 8\sem 8\bin\Debug\sem 8.exe.config
+C:\Users\User\source\repos\sem 8\sem 8\bin\Debug\sem 8.exe
+C:\Users\User\source\repos\sem 8\sem 8\bin\Debug\sem 8.pdb
+C:\Users\User\source\repos\sem 8\sem 8\obj\Debug\sem 8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sem 8\sem 8\obj\Debug\sem_8.Properties.Resources.resources
+C:\Users\User\source\repos\sem 8\sem 8\obj\Debug\sem 8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sem 8\sem 8\obj\Debug\sem 8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sem 8\sem 8\obj\Debug\sem 8.exe
+C:\Users\User\source\repos\sem 8\sem 8\obj\Debug\sem 8.pdb
