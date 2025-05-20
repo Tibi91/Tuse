@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\sem10\sem10\bin\Debug\sem10.exe.config
+C:\Users\User\source\repos\sem10\sem10\bin\Debug\sem10.exe
+C:\Users\User\source\repos\sem10\sem10\bin\Debug\sem10.pdb
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.Form1.resources
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.Properties.Resources.resources
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.exe
+C:\Users\User\source\repos\sem10\sem10\obj\Debug\sem10.pdb
