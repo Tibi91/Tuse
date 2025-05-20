@@ -3,10 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\sem11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\sem11-cgpt\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D0910BA-8871-4DB8-A0BB-BDFBA99C6970}|sem11\\sem11.csproj|c:\\users\\user\\source\\repos\\sem11\\sem11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0910BA-8871-4DB8-A0BB-BDFBA99C6970}|sem11\\sem11.csproj|solutionrelative:sem11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D0910BA-8871-4DB8-A0BB-BDFBA99C6970}|sem11\\sem11.csproj|c:\\users\\user\\source\\repos\\sem11\\sem11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6D0910BA-8871-4DB8-A0BB-BDFBA99C6970}|sem11\\sem11.csproj|C:\\Users\\User\\source\\repos\\sem11\\sem11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6D0910BA-8871-4DB8-A0BB-BDFBA99C6970}|sem11\\sem11.csproj|solutionrelative:sem11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sem11-cgpt\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\sem11-cgpt\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\sem11-cgpt\\Form1.cs",
-              "RelativeToolTip": "..\\sem11-cgpt\\Form1.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sem11\\sem11\\Form1.cs",
+              "RelativeDocumentMoniker": "sem11\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sem11\\sem11\\Form1.cs",
+              "RelativeToolTip": "sem11\\Form1.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAYwLIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:00:34.346Z",
+              "WhenOpened": "2025-05-20T15:12:28.377Z",
               "EditorCaption": ""
             },
             {
