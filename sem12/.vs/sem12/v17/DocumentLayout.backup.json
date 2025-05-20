@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\sem12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8123E-A71D-410C-8F77-2C71550A52CB}|sem12\\sem12.csproj|c:\\users\\user\\source\\repos\\sem12\\sem12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CD8123E-A71D-410C-8F77-2C71550A52CB}|sem12\\sem12.csproj|solutionrelative:sem12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD8123E-A71D-410C-8F77-2C71550A52CB}|sem12\\sem12.csproj|c:\\users\\user\\source\\repos\\sem12\\sem12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD8123E-A71D-410C-8F77-2C71550A52CB}|sem12\\sem12.csproj|solutionrelative:sem12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sem12\\sem12\\Form1.cs",
+              "RelativeDocumentMoniker": "sem12\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sem12\\sem12\\Form1.cs*",
+              "RelativeToolTip": "sem12\\Form1.cs*",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAEwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:40:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\sem12\\sem12\\Form1.cs",
+              "RelativeDocumentMoniker": "sem12\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\sem12\\sem12\\Form1.cs [Design]*",
+              "RelativeToolTip": "sem12\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:40:02.032Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
